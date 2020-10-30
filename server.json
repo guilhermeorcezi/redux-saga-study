@@ -1,0 +1,36 @@
+// 20201030145812
+// https://xesque.rocketseat.dev/platform/1598377976772-attachment.json
+
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Casaco maneiro",
+      "price": 290.90
+    },
+    {
+      "id": 2,
+      "title": "Óculos barato",
+      "price": 20.90
+    },
+    {
+      "id": 3,
+      "title": "Tênis da moda",
+      "price": 500.00
+    }
+  ],
+  "stock": [
+    {
+      "id": 1,
+      "quantity": 3
+    },
+    {
+      "id": 2,
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "quantity": 1
+    }
+  ]
+}
