@@ -4,11 +4,11 @@ export interface IProduct {
   price: number;
 }
 
-export interface ICarItem {
+export interface ICartItem {
   product: IProduct;
   quantity: number;
 }
 
 export interface ICartState {
-  items: ICarItem[];
+  items: ICartItem[];
 }
